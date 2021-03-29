@@ -2,6 +2,8 @@
 
 #The StrokeCog Markov probabilistic epidemiological model
 
+#Zenodo link: https://zenodo.org/badge/latestdoi/311600790
+
 #Model_BC_Women.r generates the base case model for women
 #Model_BC_Men.r generates the base case model for men
 
